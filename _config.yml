@@ -39,7 +39,7 @@ plugins:
   - jekyll-feed
 
 # staticman (comments) configuration
-staticman_url: https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+staticman_url: https://anasbasem.herokuapp.com/v2/entry/basemwahba/advanced/master/comments
 
 reCaptcha:
   siteKey: 6LcWstQUAAAAALoGBcmKsgCFbMQqkiGiEt361nK1
